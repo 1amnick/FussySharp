@@ -84,11 +84,11 @@ namespace FussySharp
                 secs.BackColor = Color.Red;
             }
         }
-
+        Form2 Settings = new Form2();
         private void settings_Click(object sender, EventArgs e)
         {
-            //Form2 Settings = new Form2();
-            //Settings.Show();
+            
+            Settings.Show();
         }
     }
     public class Clocky
