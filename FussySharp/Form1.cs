@@ -91,8 +91,5 @@ namespace FussySharp
             Settings.Show();
         }
     }
-    public class Clocky
-    {
 
-    }
 }
